@@ -52,9 +52,9 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming):
 
 There are many different competitive programming contests and websites:
 - International Olympiad in Informatics (the most prestigious high school programming competition)
-- USA Computing Olympiad
-- Canadian Computing Olympiad
-- Codeforces
-- CodeChef
-- TopCoder
-- HackerRank
+- [USA Computing Olympiad](http://usaco.org/)
+- [Canadian Computing Olympiad](https://cemc.math.uwaterloo.ca/contests/computing.html)
+- [Codeforces](http://codeforces.com/)
+- [CodeChef](https://www.codechef.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [HackerRank](https://www.hackerrank.com/)
