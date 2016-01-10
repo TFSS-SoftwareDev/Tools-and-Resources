@@ -43,6 +43,7 @@ A few in our area:
   - [UofTHacks](https://uofthacks.com/)
   - [Hack the North](http://hackthenorth.com/)
   - [Hack Western](https://hackwestern.com/)
+  - [WearHacks Toronto](https://wearhackstoronto.splashthat.com/)
 
 **Consider applying to the Turner Fenton Development team.** We build apps for the school. Talk to one of the SoftwareDev Club execs: Avik, Akshay, Aditya, Felix, or Kenny.
 
