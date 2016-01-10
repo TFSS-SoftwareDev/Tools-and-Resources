@@ -45,3 +45,16 @@ A few in our area:
   - [Hack Western](https://hackwestern.com/)
 
 **Consider applying to the Turner Fenton Development team.** We build apps for the school. Talk to one of the SoftwareDev Club execs: Avik, Akshay, Aditya, Felix, or Kenny.
+
+###Competitive Programming
+From [Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming):
+*Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Competitive programming is recognized and supported by several multinational software and Internet companies, such as Google, Facebook, and IBM. There are several organizations who host programming competitions on a regular basis. A programming competition generally involves the host presenting a set of logical or mathematical problems to the contestants (who can vary in number from tens to several thousands), and contestants are required to write computer programs capable of solving each problem. Judging is based mostly upon number of problems solved and time spent for writing successful solutions, but may also include other factors (quality of output produced, execution time, program size, etc.)*
+
+There are many different competitive programming contests and websites:
+- International Olympiad in Informatics (the most prestigious high school programming competition)
+- USA Computing Olympiad
+- Canadian Computing Olympiad
+- Codeforces
+- CodeChef
+- TopCoder
+- HackerRank
