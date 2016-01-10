@@ -16,7 +16,7 @@ For web development, we use [Sublime Text](http://www.sublimetext.com/), [Bracke
 - [Visual Studio for students](https://www.dreamspark.com/student/)
 
 ## Resources
-**There are lots of open source libraries you can use in your projects so you don't have to make them.**
+**There are lots of open source libraries you can use in your projects so you don't have to make them.** You can find more by searching Github.
 - [dynamics.js](https://github.com/michaelvillar/dynamics.js): Javascript library for physics animations
 - [Rebound](https://github.com/facebook/rebound): An Android physics library
 - [AppIntro](https://github.com/PaoloRotolo/AppIntro): Make an intro experience for your users
